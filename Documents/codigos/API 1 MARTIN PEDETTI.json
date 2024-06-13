@@ -1,0 +1,17 @@
+API 1 MARTIN PEDETTI.json{
+    "OrderID": 123,
+    "Adress": "Combate de las Piedras 576",
+    "Status": "Ready",
+    "Articulos": [
+        {"Name": "maderas",
+        "Price": 20000,
+        "Quantity": 8,
+        "Dangerous": false
+        }
+        {"Name": "combustible",
+        "Price": 120000,
+        "Quantity": 100,
+        "Dangerous": true
+        }
+    ]
+}
